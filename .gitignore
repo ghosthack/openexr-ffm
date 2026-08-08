@@ -1,0 +1,7 @@
+target/
+tools/jextract-22/
+build/
+.DS_Store
+*.log
+natives/src/main/resources/natives/
+
